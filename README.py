@@ -4,7 +4,7 @@ import requests
 
 from ya_disk import YandexDisk
 
-TOKEN = y0_AgAAAAAXrQeXAADLWwAAAADUvA9-L8o74WJrTzqpqTNwsuN7I2v82rk
+TOKEN = 
 
 if __name__ == '__main__':
     ya = YandexDisk(token= TOKEN)
